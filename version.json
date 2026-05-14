@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "en_us": {
     "title": "Modpack Update Available",
     "message": [
@@ -9,21 +9,15 @@
       "Latest version: {latest_version}",
       "",
       "Update highlights:",
-      "[+] Added a new race: Spirit Fox, along with its corresponding intrinsic skill line focused on summoning.",
-      "The Contract Little Fox skill allows you to summon a Spirit Fox to fight alongside you. The higher your EP is, or the further you evolve into later stages, the stronger your Spirit Fox’s attributes will become. You can open its attribute skill panel with Shift + Right Click. Half of the EP gained from creatures it kills will be shared with you.",
-      "The Spirit Summon skill allows you to absorb any untamed creature. To absorb a creature, its health must first be reduced to half. After reaching certain stages, you will unlock the damage-blocking function, allowing attacks you receive to be taken by your summoned creature instead.",
-      "More features are coming soon.",
-      "[+] Updated Mortal Cultivation to the latest version.",
-      "The Crippled One will now have multiple evolution paths, along with a dedicated Patchouli guidebook for players. Each talisman and pill will include its own introduction.",
-      "[+] Added mouse gestures and cosmetic armor mods.",
-      "[+] Updated the overworld boss Nyrakis the Siren, and adjusted and optimized the resistance skills of most bosses.",
-      "[+] Fixed several skill bugs, including an issue where the Scholar’s full blueprint unlock function stopped working after using a character reset scroll.",
-      "[+] Fixed and optimized mastery skill quests, including cases where magic-related mastery quests could not be completed, or already-mastered skills failed to complete their quests.",
-      "[+] Ghoul and Vampire races can now sleep during the day. They can also still sleep at night.",
-      "[+] Fixed several crash issues.",
-      "[+] Prevented crashes and failed game entry caused by oversized NBT data.",
+      "[+] Main content: Added two Ultimate Skills: Raphael and Beelzebub.",
+      "[+] Fixed several bugs.",
+      "[+] Added new quest book content to guide players.",
+      "[+] Optimized the modpack.",
+      "[+] Adjusted the Spirit Summon skill and fixed a crash issue.",
+      "[+] Adjusted the Unique Skill pool.",
+      "[+] Adjusted the spawn rates of some creatures.",
       "",
-      "Please download the modpack from CurseForge."
+      "Please download the modpack from the official website or Quark Drive."
     ]
   },
   "zh_cn": {
@@ -35,19 +29,13 @@
       "最新版本：{latest_version}",
       "",
       "更新内容：",
-      "[+] 新增一个种族：灵狐种，以及与其对应的召唤系内在技能。",
-      "契约小狐灵技能可以召唤一只灵狐与你作战。EP 越高，或进化到更高阶段后，你的灵狐属性会有所提升。可以通过 Shift + 右键打开它的属性技能面板。它击杀生物获得的 EP 会分给你一半。",
-      "灵之召唤技能可以收纳任何没有被驯服的生物。收纳生物前，需要先将对应生物的血量降低至一半。到达特定阶段后即可解锁抗伤功能，你所受到的攻击会由你召唤的召唤物承担。",
-      "更多功能敬请期待。",
-      "[+] Tensura 修仙附属更新至最新版本。",
-      "废人将会拥有多种进化路径，并且加入了专门配套的 Patchouli 指南书供玩家使用。每个符箓与丹药都会有对应介绍。",
-      "[+] 添加鼠标手势与时装盔甲模组。",
-      "[+] 大世界 Boss 更新海妖尼拉基斯，并且对大部分 Boss 的抗性技能进行了调整与优化。",
-      "[+] 修复了一些技能 BUG，包括学者因使用人物重置卷轴导致蓝图图纸全解锁功能失效的问题。",
-      "[+] 修复并优化了精通技能任务，包括魔法相关精通任务无法完成，或已经精通过的技能无法完成任务的问题。",
-      "[+] 食尸鬼和吸血鬼种族现在可以在白天睡觉了，晚上也依然可以睡觉。",
-      "[+] 修复了一些崩溃问题。",
-      "[+] 防止因 NBT 数据过大而导致崩溃或无法进入游戏。",
+      "[+] 主要内容：新增究极技能两个：拉斐尔与別西卜。",
+      "[+] 修复一些 BUG。",
+      "[+] 任务书新增一些内容来引导玩家。",
+      "[+] 优化整合包。",
+      "[+] 调整灵之召唤技能与修复一个崩溃问题。",
+      "[+] 调整独特技能池。",
+      "[+] 调整一些生物的刷新率。",
       "",
       "请到官网或者夸克网盘下载整合包。"
     ]
